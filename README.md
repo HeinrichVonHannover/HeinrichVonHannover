@@ -2,7 +2,7 @@
 - Many Times i encountered the problem, that games do not fit my style and it always frustates me to see a good game but with bad Content.
 
 - C++
-- <a href="Blender.com"> Blender </a>
+- <a href="Blender.org"> Blender </a>
 
 <!---
 HeinrichVonHannover/HeinrichVonHannover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
